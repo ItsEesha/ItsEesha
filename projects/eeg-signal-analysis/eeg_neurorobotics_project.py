@@ -10,6 +10,7 @@ from pathlib import Path
 import json
 import warnings
 
+from scipy.integrate import trapezoid
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -49,7 +50,7 @@ def extract_bandpower(epochs):
         mask = (freqs >= lo) & (freqs < hi)
         if not mask.any():
             raise ValueError(f"No PSD bins for {band}")
-        power = np.trapezoid(psd[:, :, mask], x=freqs[mask], axis=-1)
+        power = trapezoid(psd[:, :, mask], x=freqs[mask], axis=-1)
         blocks.append(np.log10(np.maximum(power, np.finfo(float).tiny)))
         columns.extend([f"{ch}_{band}_logpower" for ch in epochs.ch_names])
     return np.concatenate(blocks, axis=1), columns
