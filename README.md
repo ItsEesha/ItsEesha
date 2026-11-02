@@ -1,65 +1,185 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101827,45:6D28D9,100:0891B2&height=190&section=header&text=Eesha%20Munnangi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Neuroscience%20%E2%80%A2%20AI%20%E2%80%A2%20Neurotechnology&descAlignY=60&descSize=16" width="100%" alt="Animated neuroscience-themed header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090B14,40:5B42B7,75:167D91,100:090B14&height=230&section=header&text=Eesha%20Munnangi&fontSize=58&fontColor=F4F2FF&animation=twinkling&fontAlignY=39&desc=NEUROSCIENCE%20%E2%9C%95%20AI%20%E2%9C%95%20NEUROTECHNOLOGY&descAlignY=62&descSize=14" width="100%" alt="Animated Eesha Munnangi neuroscience banner"/>
 
-<a href="https://github.com/ItsEesha">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1100&color=A78BFA&center=true&vCenter=true&width=650&lines=Neuro-Electrophysiology+Graduate;Exploring+Computational+Neuroscience;EEG+Signal+Processing;Neuroscience+%C3%97+AI+%C3%97+Neurotechnology" alt="Animated profile tagline"/>
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=18&duration=2600&pause=1000&color=9FEAF4&center=true&vCenter=true&width=760&height=35&lines=Neuro-Electrophysiology+Graduate;Exploring+Computational+Neuroscience;EEG+Signal+Processing+%7C+Neural+Oscillations;Neuroscience+%C3%97+Computation+%C3%97+Engineering" alt="Animated research focus typing animation"/>
 </a>
 
-### Neuro-Electrophysiology · Computational Neuroscience · Neurotechnology
+<br/>
 
-*Exploring neural signals, computational methods, and intelligent healthcare technologies.*
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![EEG](https://img.shields.io/badge/EEG-Signal%20Analysis-00A896?style=for-the-badge)](#research)
-[![Neuroscience](https://img.shields.io/badge/Neuroscience-7C5CFC?style=for-the-badge)](#research)
-[![Healthcare AI](https://img.shields.io/badge/Healthcare-AI-263247?style=for-the-badge)](https://www.chatmed.site/)
+[![GitHub](https://img.shields.io/badge/GitHub-ItsEesha-171B2E?style=for-the-badge&logo=github)](https://github.com/ItsEesha)
+[![Research](https://img.shields.io/badge/RESEARCH-Neuroscience-7658D6?style=for-the-badge)](#research-identity)
+[![EEG](https://img.shields.io/badge/EEG-Signal%20Analysis-158A9B?style=for-the-badge)](#neural-signal-lab)
+[![Healthcare AI](https://img.shields.io/badge/Healthcare-AI-25846D?style=for-the-badge)](#selected-work)
 
 </div>
 
----
+<p align="center">
+  <img src="./assets/neural-divider.svg" width="100%" alt="Animated neural gradient divider"/>
+</p>
 
-## 🧠 About Me
+## ◈ START HERE / RESEARCH CONTROL SURFACE
 
-I am a Neuro-Electrophysiology graduate with a clinical foundation in neurodiagnostic investigations and a growing focus on computational neuroscience, neural signal processing, and neuroengineering.
+| <div align="center">🧠 **RESEARCH IDENTITY**</div> | <div align="center">⚡ **NEURAL SIGNAL LAB**</div> | <div align="center">🤖 **HEALTHCARE AI**</div> |
+|:---:|:---:|:---:|
+| [About & research interests](#research-identity) | [EEG project files](./projects/eeg-signal-analysis/) | [ChatMed contribution](./projects/chatmed-ai/) |
+| [Clinical foundation](#clinical-foundation) | [Python workflow](./projects/eeg-signal-analysis/eeg_neurorobotics_project.py) | [ChatMed website](https://www.chatmed.site/) |
 
-My interests sit at the intersection of **brain signals, machine learning, and intelligent technologies**. I am developing my computational skills through Python-based projects, scientific reading, and interdisciplinary healthcare AI work.
+<p align="center">
+  <a href="https://github.com/ItsEesha/ItsEesha/tree/main/site">
+    <img src="https://img.shields.io/badge/OPEN-Interactive%20Portfolio%20Source-7058D6?style=for-the-badge&logo=github" alt="Open interactive portfolio source"/>
+  </a>
+</p>
 
-- 🧪 Clinical exposure to EEG, overnight Video EEG, Nerve Conduction Studies (NCS), VEP, and SEP.
+> **Portfolio website:** A separate animated, responsive portfolio is included in the `site/` folder. GitHub Pages deployment needs to be enabled once in repository Settings → Pages → Source → GitHub Actions.
+
+<p align="center">
+  <img src="./assets/neural-divider.svg" width="100%" alt="Animated neural divider"/>
+</p>
+
+<a id="research-identity"></a>
+## 01 / 🧠 Research Identity
+
+I am a **Neuro-Electrophysiology graduate** with a clinical foundation in neurodiagnostic investigations and a growing focus on computational neuroscience, neural signal processing, and neuroengineering.
+
+My interests lie at the intersection of **brain signals, machine learning, and intelligent technologies**. I am developing my computational skills through Python-based projects, scientific reading, and interdisciplinary healthcare AI work.
+
+- 🧪 Clinical exposure to EEG, overnight Video EEG, Nerve Conduction Studies (NCS), Visual Evoked Potentials (VEP), and Somatosensory Evoked Potentials (SEP).
 - ⚙️ Familiarity with neurophysiology workflows and Natus and Nicolet systems.
 - 💻 Developing skills in Python, EEG preprocessing, feature extraction, and machine-learning workflows.
 - 🤖 Contributing to ChatMed AI through medical information validation, AI output evaluation, beta testing, and Python-based backend/API integration.
-- 🌱 Exploring computational neuroscience, brain–computer interfaces, and neurorobotics.
+- 🔭 Long-term research ambition: computational neuroscience and neurorobotics, especially intelligent systems that interpret and interact with neural activity.
 
-## 🔬 Research Interests
+<p align="center">
+  <img src="./assets/neural-divider.svg" width="100%" alt="Animated neural divider"/>
+</p>
 
-| 🧠 Neural Systems | ⚡ Signal & Computation | 🤖 Emerging Neurotechnology |
-|---|---|---|
-| Computational Neuroscience | EEG Signal Processing | Brain–Computer Interfaces |
-| Systems Neuroscience | Neural Oscillations | Neural Decoding |
-| Cognitive Neuroscience | Machine Learning | Neurorobotics |
-| Neurophysiology | Signal Feature Extraction | Neuroprosthetics |
+<a id="research-domains"></a>
+## 02 / 🔬 Research Domains
 
-## 🚀 Selected Projects
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">🧠 Neural Systems</h3>
+      <p align="center">Computational Neuroscience<br/>Systems Neuroscience<br/>Cognitive Functions<br/>Neural Oscillations</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">⚡ Signals & Computation</h3>
+      <p align="center">EEG Signal Processing<br/>Feature Extraction<br/>Machine Learning<br/>Neural Decoding</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🤖 Neurotechnology</h3>
+      <p align="center">Brain–Computer Interfaces<br/>Neurorobotics<br/>Neuroengineering<br/>Neuroprosthetics</p>
+    </td>
+  </tr>
+</table>
 
-### 01 · EEG Signal Analysis for Neural Feature Extraction
+<p align="center">
+  <img src="./assets/neural-divider.svg" width="100%" alt="Animated neural divider"/>
+</p>
 
-An exploratory Python workflow using the **PhysioNet EEG Motor Movement/Imagery dataset**. It investigates EEG preprocessing, frequency-band power features, and a subject-independent machine-learning evaluation.
+<a id="selected-work"></a>
+## 03 / 🚀 Selected Work & Projects
 
-**Tools:** Python · MNE-Python · NumPy · Pandas · SciPy · Matplotlib · scikit-learn
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <p align="center"><img src="https://img.shields.io/badge/01-EEG%20RESEARCH-6D5BD0?style=for-the-badge" alt="EEG research"/></p>
+      <h3 align="center">EEG Signal Analysis for Neural Feature Extraction</h3>
+      <p align="center">An exploratory Python workflow using the PhysioNet EEG Motor Movement/Imagery dataset. The project explores preprocessing, frequency-band feature extraction, and an initial subject-independent machine-learning evaluation.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/MNE-Python-4B9B88" alt="MNE Python"/>
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+      </p>
+      <p align="center">
+        <a href="./projects/eeg-signal-analysis/README.md"><b>PROJECT DOCUMENTATION ↗</b></a><br/>
+        <a href="./projects/eeg-signal-analysis/eeg_neurorobotics_project.py">Python source code</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <p align="center"><img src="https://img.shields.io/badge/02-HEALTHCARE%20AI-148A82?style=for-the-badge" alt="Healthcare AI"/></p>
+      <h3 align="center">ChatMed AI</h3>
+      <p align="center">Contribution areas include medical information validation, AI output evaluation, beta testing, and Python-based backend/API integration for a healthcare AI initiative.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Healthcare-AI-148A82" alt="Healthcare AI"/>
+        <img src="https://img.shields.io/badge/AI-Output%20Evaluation-7658D6" alt="AI output evaluation"/>
+        <img src="https://img.shields.io/badge/Python-API%20Integration-3776AB" alt="Python API integration"/>
+      </p>
+      <p align="center">
+        <a href="./projects/chatmed-ai/README.md"><b>CONTRIBUTION OVERVIEW ↗</b></a><br/>
+        <a href="https://www.chatmed.site/">ChatMed website</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-Project documentation, full Python source code, dependencies, and setup instructions: **[Explore the EEG Signal Analysis project](./projects/eeg-signal-analysis/README.md)**. No performance metrics are claimed until the workflow has been run and its outputs reviewed.
+<p align="center">
+  <img src="./assets/neural-divider.svg" width="100%" alt="Animated neural divider"/>
+</p>
 
-### 02 · ChatMed AI — Healthcare AI Contribution
+<a id="neural-signal-lab"></a>
+## 04 / ⚡ Neural Signal Lab — Current EEG Workflow
 
-Contributing to a healthcare AI initiative through medical information validation, AI output evaluation, beta testing, and Python-based backend/API integration.
+```text
+PHYSIONET EEGBCI
+      │
+      ▼
+DATASET & EVENT INSPECTION
+      │
+      ▼
+PREPROCESSING & EPOCHING
+      │
+      ▼
+WELCH PSD / BAND-POWER FEATURES
+      │
+      ▼
+EXPLORATORY SVM EVALUATION
+      │
+      ▼
+PLOTS · FEATURE TABLES · RESULT SUMMARY
+```
 
-- 🌐 [Visit ChatMed](https://www.chatmed.site/)
-- 📄 [View Eesha's ChatMed AI contribution summary](./projects/chatmed-ai/README.md)
+| Frequency band | Range used in the workflow |
+|---|---:|
+| Delta | 1–4 Hz |
+| Theta | 4–8 Hz |
+| Alpha | 8–13 Hz |
+| Beta | 13–30 Hz |
 
-*This is a contribution to a broader product. Public details and code should be shared only where authorised.*
+**Research tools:** Python · MNE-Python · NumPy · Pandas · SciPy · Matplotlib · scikit-learn
 
-## 🧰 Technical Toolkit
+> **Methodological note:** The current code uses a single exploratory subject-independent group holdout. It is not a validated BCI, clinical diagnostic tool, or real-time robotic controller. Stronger research requires repeated group-aware validation, uncertainty estimates, and inspection of actual run outputs. No accuracy claims are published here.
+
+<p align="center">
+  <a href="./projects/eeg-signal-analysis/README.md"><img src="https://img.shields.io/badge/OPEN-EEG%20LAB%20DOCUMENTATION-7058D6?style=for-the-badge" alt="Open EEG lab documentation"/></a>
+</p>
+
+<p align="center">
+  <img src="./assets/neural-divider.svg" width="100%" alt="Animated neural divider"/>
+</p>
+
+<a id="clinical-foundation"></a>
+## 05 / 🏥 Clinical Foundation
+
+**Education**  
+B.Sc. Neuro-Electrophysiology  
+Shree Venkateswara College of Paramedical Sciences  
+Affiliated with The Tamil Nadu Dr. M.G.R. Medical University
+
+**Clinical training**  
+Apollo Hospitals, Chennai — exposure to neurodiagnostic workflows, electrophysiological recording systems including Natus and Nicolet, and the importance of signal quality and artefact recognition.
+
+| EEG | Video EEG | NCS | VEP | SEP |
+|:---:|:---:|:---:|:---:|:---:|
+| ✓ | ✓ | ✓ | ✓ | ✓ |
+
+<p align="center">
+  <img src="./assets/neural-divider.svg" width="100%" alt="Animated neural divider"/>
+</p>
+
+## 06 / 🧰 Technical Toolkit
 
 | Area | Current focus |
 |---|---|
@@ -68,35 +188,66 @@ Contributing to a healthcare AI initiative through medical information validatio
 | Neurophysiology | EEG, Video EEG, NCS, VEP, SEP |
 | EEG analysis | MNE-Python, preprocessing, spectral features — developing |
 | Machine learning | scikit-learn workflows — developing |
-| Healthcare AI | Output evaluation, medical information validation |
-| Integration | Backend/API integration |
+| Healthcare AI | Medical information validation, AI output evaluation |
+| Integration | Python-based backend/API integration |
 
-## 🎓 Education & Clinical Training
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" alt="Selected development tools"/>
+</p>
 
-**B.Sc. Neuro-Electrophysiology**  
-Shree Venkateswara College of Paramedical Sciences  
-Affiliated with The Tamil Nadu Dr. M.G.R. Medical University
+<p align="center">
+  <img src="./assets/neural-divider.svg" width="100%" alt="Animated neural divider"/>
+</p>
 
-**Clinical training:** Apollo Hospitals, Chennai  
-Exposure to neurodiagnostic workflows, EEG systems, and electrophysiological investigations.
+## 07 / 📡 Contribution Telemetry
 
-## 🌱 Currently Exploring
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ItsEesha&show_icons=true&hide_border=true&bg_color=090B14&title_color=A78BFA&icon_color=66E5F2&text_color=C7D2E8&rank_icon=github" alt="GitHub profile statistics"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsEesha&layout=compact&hide_border=true&bg_color=090B14&title_color=A78BFA&text_color=C7D2E8" alt="Top repository languages"/>
+</p>
 
-- Reproducible EEG preprocessing and analysis
-- Neural oscillations and frequency-domain features
-- Responsible evaluation of machine-learning models on neural data
-- Computational approaches to brain–computer interfaces
+<p align="center">
+  <a href="https://github.com/ItsEesha">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=ItsEesha&data=followers,repositories,stars,commits&theme=dark" alt="Live GitHub profile summary"/>
+  </a>
+</p>
 
-## 🤝 Collaboration
+<p align="center">
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=ItsEesha&bg_color=090B14&color=C7D2E8&line=8B5CF6&point=66E5F2&area=true&hide_border=true&custom_title=CONTRIBUTION%20TELEMETRY" alt="GitHub contribution activity graph"/>
+</p>
 
-I welcome research discussions and interdisciplinary collaborations in EEG analysis, computational neuroscience, BCI, neurorobotics, neuroengineering, and AI-driven healthcare.
+<p align="center">
+  <img src="./assets/neural-divider.svg" width="100%" alt="Animated neural divider"/>
+</p>
 
-<div align="center">
+## 08 / 🌱 The Research Horizon
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0891B2,50:6D28D9,100:111827&height=3&section=footer" width="100%" alt="Gradient divider"/>
+- Reproducible EEG preprocessing and analysis.
+- Neural oscillations and cognitive functions.
+- Machine learning for neural signals and neural decoding.
+- Brain–computer interfaces and adaptive neural interfaces.
+- Neurorobotics and AI-driven neuroengineering.
 
-**Neuroscience × Computation × Engineering**
+## 09 / 🤝 Collaboration
 
-*Learning, building, and exploring — one experiment at a time.*
+Interested in research discussions and interdisciplinary collaborations involving:
 
-</div>
+**EEG & neural signal processing · Computational neuroscience · Brain–computer interfaces · Neurorobotics · Neuroengineering · AI-driven healthcare**
+
+<p align="center">
+  <a href="https://github.com/ItsEesha"><img src="https://img.shields.io/badge/GitHub-Connect-171B2E?style=for-the-badge&logo=github" alt="GitHub"/></a>
+  <a href="https://www.chatmed.site/"><img src="https://img.shields.io/badge/ChatMed-Healthcare%20AI-148A82?style=for-the-badge" alt="ChatMed website"/></a>
+</p>
+
+<p align="center">
+  <img src="https://readmes.pages.dev/clock/asia-kolkata/24h/card" alt="Live India local time"/>
+</p>
+
+<p align="center">
+  <img src="https://readmes.pages.dev/ascii/cat-face/card" alt="A tiny animated cat waving hello"/>
+</p>
+
+<p align="center">
+  <img src="./assets/neural-divider.svg" width="100%" alt="Animated neural divider"/>
+  <sub>NEUROSCIENCE × COMPUTATION × ENGINEERING · Learning, building, and exploring — one experiment at a time.</sub>
+</p>
