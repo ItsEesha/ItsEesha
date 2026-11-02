@@ -44,7 +44,7 @@ An exploratory Python workflow using the **PhysioNet EEG Motor Movement/Imagery 
 
 **Tools:** Python · MNE-Python · NumPy · Pandas · SciPy · Matplotlib · scikit-learn
 
-> Project repository link will be added after the EEG source files are published. No performance metrics are claimed until the workflow has been run and its outputs reviewed.
+Project documentation, full Python source code, dependencies, and setup instructions: **[Explore the EEG Signal Analysis project](./projects/eeg-signal-analysis/README.md)**. No performance metrics are claimed until the workflow has been run and its outputs reviewed.
 
 ### 02 · ChatMed AI — Healthcare AI Contribution
 
