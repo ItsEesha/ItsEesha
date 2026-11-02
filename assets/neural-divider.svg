@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="42" viewBox="0 0 1200 42" fill="none">
+  <defs>
+    <linearGradient id="g" x1="0" y1="21" x2="1200" y2="21" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111827" stop-opacity="0"/>
+      <stop offset=".25" stop-color="#8B5CF6"/>
+      <stop offset=".72" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#111827" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-200%" width="140%" height="500%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <path d="M0 21H1200" stroke="#64748B" stroke-opacity=".18"/>
+  <path d="M0 21H1200" stroke="url(#g)" stroke-width="2" stroke-dasharray="18 20" filter="url(#glow)">
+    <animate attributeName="stroke-dashoffset" from="0" to="-228" dur="8s" repeatCount="indefinite"/>
+  </path>
+  <path d="M0 21H310l18-8 18 16 18-8h485l18-8 18 16 18-8h297" stroke="url(#g)" stroke-opacity=".55" stroke-width="1"/>
+  <circle cx="600" cy="21" r="3" fill="#A78BFA" filter="url(#glow)">
+    <animate attributeName="r" values="2;4;2" dur="2.6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".45;1;.45" dur="2.6s" repeatCount="indefinite"/>
+  </circle>
+</svg>
