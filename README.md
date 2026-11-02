@@ -2,6 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:101827,45:6D28D9,100:0891B2&height=190&section=header&text=Eesha%20Munnangi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Neuroscience%20%E2%80%A2%20AI%20%E2%80%A2%20Neurotechnology&descAlignY=60&descSize=16" width="100%" alt="Animated neuroscience-themed header"/>
 
+<a href="https://github.com/ItsEesha">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1100&color=A78BFA&center=true&vCenter=true&width=650&lines=Neuro-Electrophysiology+Graduate;Exploring+Computational+Neuroscience;EEG+Signal+Processing;Neuroscience+%C3%97+AI+%C3%97+Neurotechnology" alt="Animated profile tagline"/>
+</a>
+
 ### Neuro-Electrophysiology · Computational Neuroscience · Neurotechnology
 
 *Exploring neural signals, computational methods, and intelligent healthcare technologies.*
