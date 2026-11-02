@@ -55,7 +55,7 @@ Project documentation, full Python source code, dependencies, and setup instruct
 Contributing to a healthcare AI initiative through medical information validation, AI output evaluation, beta testing, and Python-based backend/API integration.
 
 - 🌐 [Visit ChatMed](https://www.chatmed.site/)
-- 💻 [ChatMed AI GitHub repository](https://github.com/anagonoudenis/chatmed_ai)
+- *Repository source access was not independently verified; the project is linked through its public website here.*
 
 *This is a contribution to a broader product. Public details and code should be shared only where authorised.*
 
