@@ -1,0 +1,2 @@
+# ItsEesha
+Neuroscience • AI • Neurotechnology
