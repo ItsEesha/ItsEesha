@@ -12,7 +12,7 @@
 &nbsp; · &nbsp;
 <a href="./projects/chatmed-ai/README.md">CHATMED AI CASE STUDY</a>
 &nbsp; · &nbsp;
-<a href="./site/index.html">INTERACTIVE PORTFOLIO SOURCE</a>
+<a href="https://itseesha.github.io/ItsEesha/">LIVE INTERACTIVE PORTFOLIO</a>
 
 <img src="./assets/neuron-mascot.gif" width="180" alt="Cute animated neural cell mascot"/>
 
@@ -28,9 +28,9 @@
 | [Clinical foundation](#05--clinical-foundation) | [Python source](https://github.com/ItsEesha/eeg-signal-analysis/blob/main/eeg_neurorobotics_project.py) | [Product website](https://www.chatmed.site/) |
 
 <p align="center">
-  <a href="./site/index.html"><b>OPEN INTERACTIVE PORTFOLIO SOURCE ↗</b></a>
+  <a href="https://itseesha.github.io/ItsEesha/"><b>OPEN LIVE INTERACTIVE PORTFOLIO ↗</b></a>
   &nbsp; · &nbsp;
-  <a href="./site/chatmed-ai.html"><b>CHATMED AI CASE STUDY PAGE ↗</b></a>
+  <a href="https://itseesha.github.io/ItsEesha/chatmed-ai.html"><b>CHATMED AI CASE STUDY PAGE ↗</b></a>
 </p>
 
 <img src="./assets/neural-divider.gif" width="100%" alt="Animated neural signal divider"/>
