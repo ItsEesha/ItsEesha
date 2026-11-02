@@ -1,4 +1,16 @@
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ItsEesha/ItsEesha/main/assets/neural-banner.gif" width="100%" alt="Animated neural healthcare AI banner"/>
+
 # ChatMed AI — Product Journey & Eesha's Contribution
+
+**Healthcare AI · Medical Information Quality · Product Testing · API Integration**
+
+[Visit ChatMed](https://www.chatmed.site/) · [Eesha's GitHub](https://github.com/ItsEesha)
+
+</div>
+
+<img src="https://raw.githubusercontent.com/ItsEesha/ItsEesha/main/assets/neural-divider.gif" width="100%" alt="Animated neural divider"/>
 
 **Project website:** https://www.chatmed.site/  
 **Portfolio owner:** Eesha Munnangi  
