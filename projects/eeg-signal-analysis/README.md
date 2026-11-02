@@ -53,6 +53,11 @@ python -m pip install --upgrade pip
 python -m pip install -r requirements.txt
 ```
 
+## Project files
+
+- [Python analysis workflow](./eeg_neurorobotics_project.py)
+- [Dependency list](./requirements.txt)
+
 ## Run
 
 From this directory:
