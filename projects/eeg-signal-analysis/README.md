@@ -81,6 +81,8 @@ The script creates `eeg_project_outputs/` with:
 
 Generated results are not committed as precomputed findings. Run the workflow and inspect the output files before drawing conclusions.
 
+**Validation status:** The Python source passed a syntax compilation check. The complete data-download and analysis workflow has not yet been run end-to-end, so no empirical results are reported.
+
 ## Evaluation limitations
 
 - The current evaluation is a **single exploratory subject-independent group holdout**.
